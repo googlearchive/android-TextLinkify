@@ -9,4 +9,14 @@ categories:   [Views]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-TextLinkify
+level:        INTERMEDIATE
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.widget.TextView
+    - android:android.text.util.Linkify
+    - android:android.text.Html
+    - android:android.text.SpannableString
+    - android:android.text.style.StyleSpan
+    - android:android.text.style.URLSpan
+    - android:android.text.SpannableString
 license: apache2
